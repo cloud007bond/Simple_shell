@@ -1,2 +1,2 @@
 # Simple_shell
-this is charles and marvellous simple_shell project
+this is charles and marvellous simple_shell project!
