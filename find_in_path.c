@@ -25,6 +25,7 @@ int find_program(data_of_program *data)
 	if (!data->tokens[0])
 		return (2);
 
+
 	directories = tokenize_path(data);/* search in the PATH */
 
 	if (!directories || !directories[0])
