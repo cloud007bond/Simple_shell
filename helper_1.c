@@ -42,6 +42,7 @@ void free_all_data(data_of_program *data)
  * @array: array of pointers
  * Return: nothing
  */
+
 void free_array_of_pointers(char **array)
 {
 	int i;
